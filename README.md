@@ -1,2 +1,15 @@
 # MyEcom
-2024
+
+http://127.0.0.1:8000/
+
+D:\
+django-admin startproject MyEcom
+cd MyEcom
+code .
+python manage.py startapp products
+python manage.py migrate
+python manage.py makemigrations
+python -m pip install Pillow
+python manage.py makemigrations
+python manage.py runserver
+doskey /history
