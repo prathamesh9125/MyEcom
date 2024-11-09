@@ -1,6 +1,7 @@
 # MyEcom
 https://youtu.be/BakSpjjdjVA
-http://127.0.0.1:8000/
+https://github.com/boxabhi/complete-djano-ecommerce-youtube/blob/main/
+http://127.0.0.1:8000/start_page/
 
 D:\
 #git clone https://github.com/prathamesh9125/MyEcom.git
